@@ -12,7 +12,7 @@
 
 ----
 
-### Techcnical Skills
+### Technical Skills
 
   <p align="center">
     <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,git,github,postman,vercel,netlify,aws,firebase,azure,bash,python,c,cs,cpp,java,js,mongo,mysql,postgres,redis,jenkins,docker,terraform,net,express,react,tensorflow,figma,eclipse,androidstudio,visualstudio,bun,bots,npm,regex,selenium,vite">
