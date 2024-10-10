@@ -3,7 +3,7 @@
     
 # Hi 👋 I'm [Raj](https://www.linkedin.com/in/raj-shendkar)
 
-### A Backend Engineer ⚙️
+### A Software Engineer ⚙️
 
 🔭 I’m currently building something great<br>
 🌱 I’m currently learning Gen AI<br>
