@@ -1,9 +1,9 @@
 <body>
   <div align="center">
     
-# Hi 👋 I'm [Raj](https://www.linkedin.com/in/raj-shendkar)
+# Hi 👋 I'm [Raj](https://www.linkedin.com/in/raj-shendkar) 
 
-### A Software Engineer <img src="https://media.tenor.com/pHxSPhDDTBcAAAAi/akirambow-plump-little-chick.gif" width="55"/>
+### A Software Engineer <img src="https://media.tenor.com/dqxmpGSfdv4AAAAj/akirambow-plump-little-chick.gif" width="40"/> 
 
 🔭 I’m currently building something great<br>
 🌱 I’m currently learning Gen AI<br>
