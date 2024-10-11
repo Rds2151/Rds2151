@@ -3,12 +3,12 @@
     
 # Hi 👋 I'm [Raj](https://www.linkedin.com/in/raj-shendkar)
 
-### A Software Engineer ⚙️
+### A Software Engineer <img src="https://media.tenor.com/pHxSPhDDTBcAAAAi/akirambow-plump-little-chick.gif" width="55"/>
 
 🔭 I’m currently building something great<br>
 🌱 I’m currently learning Gen AI<br>
 💬 Ask me about Backend stuff<br>
-📫 Reach me at: [Mail](mailto:rajshendkar29@gmail.com)
+📫 Reach me at: [rajshendkar29](mailto:rajshendkar29@gmail.com)
 
 ----
 
