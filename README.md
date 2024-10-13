@@ -39,6 +39,11 @@
       <th>Page</th>
     </tr>
     <tr>
+      <td>SupremeTA_Bot</td>
+      <td>Developed a task automation program using API calls, reducing task assignment time from 3.41 hours to 10 seconds—a 99% reduction. The system managed approximately 24,000 tasks daily, with accurate logging in a file, demonstrating strong attention to detail and scalability.</td>
+      <td align="center"><a href="https://github.com/Rds2151/SupremeTA_Bot">https://github.com/Rds2151/SupremeTA_Bot</a></td>
+    </tr>
+    <tr>
       <td>Grub-Protect</td>
       <td>This script allows users to protect grub boot loader from compromise and set a security layer on it.</td>
       <td align="center"><a href="https://github.com/rds2151/grub-protect">https://github.com/rds2151/grub-protect</a></td>
