@@ -8,6 +8,7 @@
 🔭 I’m currently building something great<br>
 🌱 I’m currently learning Gen AI<br>
 💬 Ask me about Backend stuff<br>
+🔧 Specialty in Node.js<br>
 📫 Reach me at: [rajshendkar29](mailto:rajshendkar29@gmail.com)
 
 ----
