@@ -44,6 +44,16 @@
       <td>Developed a task automation program using API calls for Label Studio, cutting task assignment time from 3.41 hours to 10 seconds—a 99% reduction. Managed 24,000 tasks daily with detailed logging, showcasing attention to detail and scalability.</td>
       <td align="center"><a href="https://github.com/Rds2151/SupremeTA_Bot">https://github.com/Rds2151/SupremeTA_Bot</a></td>
     </tr>
+  <tr>
+      <td>ChatConnect</td>
+      <td>ChatConnect is a real-time messaging application built using Node.js, Express, and Socket.IO, Redis, with MongoDB as the database.</td>
+      <td align="center"><a href="https://github.com/rds2151/ChatConnect">https://github.com/rds2151/ChatConnect</a></td>
+    </tr>  
+    <tr>
+      <td>StockChain</td>
+      <td>StockChain enhances restaurant stock management with secure logins, flash messages, Passport authentication, and streamlined data processing.</td>
+      <td align="center"><a href="https://github.com/rds2151/StockChain">https://github.com/rds2151/StockChain</a></td>
+    </tr>
     <tr>
       <td>Grub-Protect</td>
       <td>This script allows users to protect grub boot loader from compromise and set a security layer on it.</td>
@@ -63,16 +73,6 @@
       <td>Toggle-Camera</td>
       <td>"Camera Toggle Script for Linux" This script provides a simple and convenient solution for toggling the camera on and off in Linux environments.</td>
       <td align="center"><a href="https://github.com/rds2151/Toggle-Camera">https://github.com/rds2151/Toggle-Camera</a></td>
-    </tr>
-    <tr>
-      <td>ChatConnect</td>
-      <td>ChatConnect is a real-time messaging application built using Node.js, Express, and Socket.IO, Redis, with MongoDB as the database.</td>
-      <td align="center"><a href="https://github.com/rds2151/ChatConnect">https://github.com/rds2151/ChatConnect</a></td>
-    </tr>  
-    <tr>
-      <td>StockChain</td>
-      <td>StockChain enhances restaurant stock management with secure logins, flash messages, Passport authentication, and streamlined data processing.</td>
-      <td align="center"><a href="https://github.com/rds2151/StockChain">https://github.com/rds2151/StockChain</a></td>
     </tr>
   </table>
   </div>
