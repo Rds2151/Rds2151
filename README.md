@@ -48,16 +48,6 @@
       <td>ChatConnect</td>
       <td>ChatConnect is a real-time messaging application built using Node.js, Express, and Socket.IO, Redis, with MongoDB as the database.</td>
       <td align="center"><a href="https://github.com/rds2151/ChatConnect">https://github.com/rds2151/ChatConnect</a></td>
-    </tr>  
-    <tr>
-      <td>StockChain</td>
-      <td>StockChain enhances restaurant stock management with secure logins, flash messages, Passport authentication, and streamlined data processing.</td>
-      <td align="center"><a href="https://github.com/rds2151/StockChain">https://github.com/rds2151/StockChain</a></td>
-    </tr>
-    <tr>
-      <td>Grub-Protect</td>
-      <td>This script allows users to protect grub boot loader from compromise and set a security layer on it.</td>
-      <td align="center"><a href="https://github.com/rds2151/grub-protect">https://github.com/rds2151/grub-protect</a></td>
     </tr>
     <tr>
       <td>SkillAssess</td>
@@ -68,6 +58,16 @@
       <td>RS Remover</td>
       <td>RS Remover is a GUI based tool designed to scan and remove duplicate files from a given directory.</td>
       <td align="center"><a href="https://github.com/rds2151/RS-Remover">https://github.com/rds2151/RS-Remover</a></td>
+    </tr>
+    <tr>
+      <td>StockChain</td>
+      <td>StockChain enhances restaurant stock management with secure logins, flash messages, Passport authentication, and streamlined data processing.</td>
+      <td align="center"><a href="https://github.com/rds2151/StockChain">https://github.com/rds2151/StockChain</a></td>
+    </tr>
+    <tr>
+      <td>Grub-Protect</td>
+      <td>This script allows users to protect grub boot loader from compromise and set a security layer on it.</td>
+      <td align="center"><a href="https://github.com/rds2151/grub-protect">https://github.com/rds2151/grub-protect</a></td>
     </tr>
     <tr>
       <td>Toggle-Camera</td>
