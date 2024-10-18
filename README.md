@@ -85,4 +85,3 @@
     <img src="https://github.com/user-attachments/assets/2ca570a6-3e2c-424c-b4fc-871844841cf7" alt="Snowflake_Certificate" width="777"/>
   </div>
   
-  
