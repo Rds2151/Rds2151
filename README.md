@@ -40,6 +40,11 @@
       <th>Page</th>
     </tr>
     <tr>
+      <td>ML Model Registry API</td>
+      <td>Developed a dynamic API framework that allows easy integration and version control of multiple ML models. Implemented a model registry and generic model loader class, facilitating seamless model management and deployment on AWS Lambda and EC2.</td>
+      <td align="center"><a href="https://github.com/Rds2151/ml-model-registry-api.git">https://github.com/Rds2151/ml-model-registry-api</a></td>
+    </tr>
+    <tr>
       <td>SupremeTA_Bot</td>
       <td>Developed a task automation program using API calls for Label Studio, cutting task assignment time from 3.41 hours to 10 seconds—a 99% reduction. Managed 24,000 tasks daily with detailed logging, showcasing attention to detail and scalability.</td>
       <td align="center"><a href="https://github.com/Rds2151/SupremeTA_Bot">https://github.com/Rds2151/SupremeTA_Bot</a></td>
